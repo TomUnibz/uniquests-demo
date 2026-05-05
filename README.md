@@ -1,7 +1,5 @@
 # Uniquests
 
-A simple mobile-first React demo for a university Software Project Management final presentation.
-
 Uniquests is a campus location-based treasure hunt game prototype. This demo uses local React state only, with no backend, database, GPS, or authentication.
 
 ## Run locally
